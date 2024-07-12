@@ -1,7 +1,5 @@
 # Emanuel De Leon
 
-![Profile Views](https://shields.io/badge/Profile%20Views-1000-blue)
-![GitHub Followers](https://shields.io/badge/GitHub%20Followers-1000-green)
 
 ## 👨‍💻 About Me
 Hello! I'm **Emanuel De Leon**, a 21-year-old software developer and freelance graphic designer with a passion for creating efficient and innovative solutions. 
