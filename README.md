@@ -2,7 +2,7 @@
 
 
 ## 👨‍💻 About Me
-Hello! I'm **Emanuel De Leon**, a 21-year-old software developer and freelance graphic designer with a passion for creating efficient and innovative solutions. 
+Hello! I'm **Emanuel De Leon**, a 22-year-old software developer and freelance graphic designer with a passion for creating efficient and innovative solutions. 
 
 ## 🚀 Skills
 
@@ -37,8 +37,7 @@ I am eager to start my professional career and contribute to impactful projects.
   - Universidad ORT Uruguay
 
 ## 🌟 Projects
-- **[Project 1](https://github.com/emaleobrunn/emaleobrunn.github.io)**
- -Personal website for a friend
+- **[BIG PROYECT]((https://github.com/emaleobrunn/ProyectoGestionRestaurante.git))** 
 
 
 ## 🎯 Goals
