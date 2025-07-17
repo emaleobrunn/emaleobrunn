@@ -8,6 +8,7 @@ Hello! I'm **Emanuel De Leon**, a 22-year-old software developer and freelance g
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-8%20%2F%2011%20%2F%2017-red)
 ![C#](https://img.shields.io/badge/C%23-.NET%20Core%20%2F%20Framework-blue)
 ![CSS](https://img.shields.io/badge/CSS3-Styling-blue)
