@@ -37,7 +37,8 @@ I am eager to start my professional career and contribute to impactful projects.
   - Universidad ORT Uruguay
 
 ## 🌟 Projects
-- **[BIG PROJECT](https://github.com/emaleobrunn/ProyectoGestionRestaurante.git)** 
+- **[BIG PROJECT](https://github.com/emaleobrunn/ProyectoGestionRestaurante.git)**
+- **[Analsis CSV (con errores)](https://github.com/emaleobrunn/ProyectoAnalisisCSV)** 
 
 
 ## 🎯 Goals
